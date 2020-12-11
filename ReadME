@@ -1,0 +1,4 @@
+Files contains:
+
+word_alpha.txt contains all the words from the dictionary
+spellCheck.py contains the code by promting the file name. Please make sure you enter the file name.txt
